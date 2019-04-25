@@ -8,3 +8,6 @@ This data was obtained from Kaggle Enron dataset. See here for additional detail
 
 ## Synopsis
 This code is companion to my [medium post](https://medium.com/@ShoReason/nlp-with-lda-analyzing-topics-in-the-enron-email-dataset-20326b7ae36f) exploring how we can use LDA to evaluate the key topics of the Enron email dataset
+
+## Notebook
+If you have any trouble viewing the notebook or it's not rendering properly, try [here](https://nbviewer.jupyter.org/github/shoreason/enron-topic-modeling/blob/master/enron_lda.ipynb)
